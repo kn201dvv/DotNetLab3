@@ -1,0 +1,11 @@
+C:\Users\Beebo\Desktop\.NET\lab3\Encryption\bin\Debug\Encryption.exe.config
+C:\Users\Beebo\Desktop\.NET\lab3\Encryption\bin\Debug\Encryption.exe
+C:\Users\Beebo\Desktop\.NET\lab3\Encryption\bin\Debug\Encryption.pdb
+C:\Users\Beebo\Desktop\.NET\lab3\Encryption\obj\Debug\Encryption.csproj.AssemblyReference.cache
+C:\Users\Beebo\Desktop\.NET\lab3\Encryption\obj\Debug\Encryption.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beebo\Desktop\.NET\lab3\Encryption\obj\Debug\Encryption.Form1.resources
+C:\Users\Beebo\Desktop\.NET\lab3\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+C:\Users\Beebo\Desktop\.NET\lab3\Encryption\obj\Debug\Encryption.csproj.GenerateResource.cache
+C:\Users\Beebo\Desktop\.NET\lab3\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\Beebo\Desktop\.NET\lab3\Encryption\obj\Debug\Encryption.exe
+C:\Users\Beebo\Desktop\.NET\lab3\Encryption\obj\Debug\Encryption.pdb

@@ -1,0 +1,11 @@
+C:\Users\Beebo\Desktop\.NET\lab3\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Beebo\Desktop\.NET\lab3\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\Beebo\Desktop\.NET\lab3\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\Beebo\Desktop\.NET\lab3\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Users\Beebo\Desktop\.NET\lab3\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Beebo\Desktop\.NET\lab3\TaskManager\obj\Debug\TaskManager.Form1.resources
+C:\Users\Beebo\Desktop\.NET\lab3\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\Beebo\Desktop\.NET\lab3\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\Beebo\Desktop\.NET\lab3\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Beebo\Desktop\.NET\lab3\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\Beebo\Desktop\.NET\lab3\TaskManager\obj\Debug\TaskManager.pdb
